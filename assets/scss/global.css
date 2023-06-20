@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fira Sans";
+  text-transform: capitalize;
+}
+
+a {
+  color: inherit;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=global.css.map */
